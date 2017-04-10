@@ -1,2 +1,3 @@
 # Restorante-conFusion
- Assignment for the Frontend  of a restraunt
+     It's an assignment done under the Coursera's Full Stack Development by The Johns Hopkins University 
+     for the Frontend of a restaurant.
