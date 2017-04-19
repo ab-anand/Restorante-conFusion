@@ -5,4 +5,4 @@
                 You can take a glance in the screenshots directory.
                 
 ## Note
-         No any template or dreamweaver has been used. It took me 3 weeks learn and code the website.
+         No any template or dreamweaver has been used. It took me 3 weeks to learn and code the website.
